@@ -1,0 +1,10 @@
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+data/
+notebook/
+venv/
+.idea/
+core/.mypy_cache/
+
+test.py
